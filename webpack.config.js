@@ -44,7 +44,7 @@ module.exports = {
                     singleton: true,
                     requiredVersion: dependencies["react-dom"],
                 },
-            //   redux???
+
             },
         }),
         new HtmlWebpackPlugin({
